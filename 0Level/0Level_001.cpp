@@ -1,8 +1,9 @@
 #include <iostream>
-// a¿Íb Ãâ·Â
+// aï¿½ï¿½b ï¿½ï¿½ï¿½
 using namespace std;
 
-int main(void) {
+int main(void)
+{
     int a;
     int b;
     cin >> a >> b;
