@@ -1,8 +1,8 @@
 #include <string>
 #include <vector>
-//  ÇÇÀÚ ³ª´² ¸Ô±â(1)
-using namespace std;
 
+using namespace std;
+// í”¼ì ë‚˜ëˆ ë¨¹ê¸° (1)
 int solution(int n) {
     int answer = 0;
     if (n % 7 == 0) {
